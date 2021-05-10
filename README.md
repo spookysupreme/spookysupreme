@@ -1,5 +1,5 @@
 - Hi, I’m @spookysupreme
 - I’m interested in cybersecurity, programming, ctf, gaming, and all things spooky/horror
 - I’m currently learning computer networking and cybersecurity in school and ctf in my free time
-- Favorite game: FFXIV
-- Pursuing a career in pentesting, computer forensics, or cryptography
+- My favorite game is FFXIV
+- Pursuing a career in cryptography
