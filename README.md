@@ -1,0 +1,3 @@
+- Hi, I’m @spookysupreme
+- I’m interested in cybersecurity, programming, ctf, gaming, and all things spooky/horror
+- I’m currently learning computer networking and cybersecurity in school and ctf in my free time
